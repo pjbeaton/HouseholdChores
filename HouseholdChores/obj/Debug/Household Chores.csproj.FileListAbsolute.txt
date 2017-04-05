@@ -1,0 +1,66 @@
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\Bin\Debug\ApplicationIcon.png
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\Bin\Debug\Background.png
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\Bin\Debug\Household_Chores.dll
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\Bin\Debug\Household_Chores.pdb
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\Bin\Debug\AppManifest.xaml
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\Bin\Debug\Household Chores.xap
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\App.g.cs
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\DetailsPage.g.cs
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\MainPage.g.cs
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\Household_Chores.g.resources
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\Household_Chores.dll
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\Household_Chores.pdb
+C:\Users\pjbeaton\Documents\Expression\Blend 4\Projects\Household Chores\Household Chores\obj\Debug\XapCacheFile.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\App.g.i.cs
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Household_Chores.g.resources
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Household_Chores.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Household_Chores.pdb
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\images\ApplicationIcon.png
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\images\Background.png
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Household_Chores.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Household_Chores.pdb
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\AppManifest.xaml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Household Chores.xap
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\XapCacheFile.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Views\RewardPage.g.i.cs
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Views\ListPage.g.i.cs
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Views\MemberPage.g.i.cs
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\obj\Debug\Views\TaskPage.g.i.cs
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Windows Phone Apps\Household Chores\Household Chores\Bin\Debug\images\Add.png
